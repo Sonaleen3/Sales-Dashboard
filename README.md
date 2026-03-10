@@ -21,4 +21,4 @@ The Q&A feature enabled users to ask questions in natural language and instantly
 Overall, the dashboard presents complex sales data in an intuitive and visually appealing format, enabling quick analysis, better understanding of key metrics, and improved business decision-making.
 
 Screenshot :
-
+https://github.com/Sonaleen3/Sales-Dashboard/blob/main/SalesDashboard.png
